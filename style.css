@@ -1,0 +1,37 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 30px;
+}
+
+.note {
+    font-size: 15px;
+    color: rgb(12, 53, 66);
+    font-weight: bold;
+}
+
+body {
+    background-size: cover;
+}
+
+.speed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_volume {
+    float: right;
+}
+
+canvas {
+    border: 5px solid blanchedalmond;
+}
